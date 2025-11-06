@@ -21,3 +21,18 @@ html,
 .title {
     font-size: 3rem;
 }
+
+.form{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+}
+
+.input{
+    margin: 10px;
+    border-radius: 5px;
+    padding: 8px;
+}
